@@ -12,7 +12,7 @@ A repository containing exercises to track continuous improvements in programmin
 - TBC
 
 ### **03_Functions**
-- Beginner-friendly examples showcasing:
+- `Basics.py`: Beginner-friendly examples showcasing:
   - Defining a simple function.
   - Using parameters to pass values.
   - Returning values from functions.

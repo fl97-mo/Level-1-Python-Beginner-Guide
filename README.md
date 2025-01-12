@@ -29,6 +29,7 @@ A repository containing exercises to track continuous improvements in programmin
   - Add, view, and remove products.
   - Calculate the total cost.
   - Track the quantity and price of each items.
+  - ![Shopping List Screenshot](08_Screenshots/07_ShoppingList.png)
 - - TBC
 ---
 

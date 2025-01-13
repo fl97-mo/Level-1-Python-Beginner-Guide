@@ -58,7 +58,7 @@ def name_price_of_product():                                    # defined functi
 name_price_of_product()                                         # no need to put values inside the function, since we will define them within  |
 #--Terminal Output-----------------------------------------------------------------------------------------------------------------------------|
 #What product do you want to purchase?: Apple                                                                                                  |
-#How much does your product cost?: 0.                                                                                                          |
+#How much does your product cost?: 0.5                                                                                                         |
 #How many do you want to purchase?: 1234                                                                                                       |
 #You bought 1234x of Apple's.                                                                                                                  |
 #Your total will be 617.00€.                                                                                                                   |

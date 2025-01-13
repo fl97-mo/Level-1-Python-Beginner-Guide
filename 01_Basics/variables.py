@@ -1,5 +1,5 @@
 # Variables = Storage for Values. Use variables througout your code, for easier use.                                                           |
-# You can assign different types of data to a variable                                                                                          |
+# You can assign different types of data to a variable                                                                                         |
 # choose descriptive names for your variables, to make your code easier to understand                                                          |
 # example 1: assigning values to variables                                                                                                     |  
 product = "Apple"                                               # String(text): assigned with = "" or = ''                                     |

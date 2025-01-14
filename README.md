@@ -24,7 +24,10 @@ A repository containing exercises to track continuous improvements in programmin
   - Getting user input and performing calculations.
   - ![Solutions for the tasks](08_Screenshots/03_Basics.png)
 ### **04_Data_Structures**
-- TBC
+- `Collections.py`: Explaination and examples of collection types:
+  - **Lists:**
+  - **Sets:**
+  - **Tuples:**
 
 ### **05_Modules**
 - TBC

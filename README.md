@@ -25,9 +25,9 @@ A repository containing exercises to track continuous improvements in programmin
   - ![Solutions for the tasks](08_Screenshots/03_Basics.png)
 ### **04_Data_Structures**
 - `Collections.py`: Explaination and examples of collection types:
-  - **Lists:**
-  - **Sets:**
-  - **Tuples:**
+  - Lists
+  - Sets
+  - Tuples
 
 ### **05_Modules**
 - TBC

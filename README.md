@@ -41,7 +41,11 @@ A repository containing exercises to track continuous improvements in programmin
   - Calculate the total cost.
   - Track the quantity and price of each items.
   - ![Shopping List Screenshot](08_Screenshots/07_ShoppingList.png)
-
+- `ToDoList.py`: A To-do-list where you can:
+  - Create and add tasks to a list
+  - Display the list
+  - Remove items
+  - ![To-do-list Screenshot](08_Screenshots/07_ToDoList.png)
 ---
 
 ## Goals

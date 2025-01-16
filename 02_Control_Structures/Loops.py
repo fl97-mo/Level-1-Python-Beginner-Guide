@@ -12,6 +12,11 @@ while age <18:                                        # do the loop while the ag
     print("Please come back when you are over 18.")   # age is still below 18, so this code continues      |
     age = int(input("Enter your age: "))              # ask again for user input, until they're 18+        |
 print(f"You are {age} years old!")                    # loop escaped, user is 18+ so, do continue this code|
+#--Terminal Output-----------------------------------------------------------------------------------------|
+#Enter your age: 17                                                                                        |
+#Please come back when you are over 18.                                                                    |
+#Enter your age: 18                                                                                        |
+#You are 18 years old!                                                                                     |
 #----------------------------------------------------------------------------------------------------------|
 # Example 2: Breaking out of a loop                                                                        |
 while True:                                           # infinite loop, runs until we break it              |
@@ -23,6 +28,11 @@ while True:                                           # infinite loop, runs unti
         break                                         # break condition to escape out of loop              |
     else:                                             # if user input is anything else than 1 or 2         |
         print("Enter 1 to buy, or 2 to cancel.")      # repeat asking for valid user input                 |
+#--Terminal Output-----------------------------------------------------------------------------------------|
+#1 = Buy, 2 = Cancel1                                                                                      |
+#You bought 100 apples.                                                                                    |
+#1 = Buy, 2 = Cancel2                                                                                      |
+#Byebye!                                                                                                   |
 #----------------------------------------------------------------------------------------------------------|
 # Example 3: Using while to iterate through an list                                                        |
 inventory = ["Apples", "Bananas", "Cherries", "Eggs"] # list of all available products                     |
@@ -37,6 +47,12 @@ while position < len(inventory):                      # Loop through (the length
     position += 1                                     # Increment the index, as long as the length of list |
 else:                                                 # If no break occurs, execute this                   |
     print(f"Sorry, {search} is not available.")       #                                                    |
+#--Terminal Output-----------------------------------------------------------------------------------------|
+#What product are you looking for? Fries                                                                   |
+#Sorry, Fries is not available.                                                                            |
+#What product are you looking for? Apples                                                                  |
+#Apples is in stock!                                                                                       |
+#----------------------------------------------------------------------------------------------------------|
 # FOR LOOPS                                                                                                |
 #----------------------------------------------------------------------------------------------------------|
 # Example 1: List all products in stock.                                                                   |
@@ -44,6 +60,12 @@ products = ["Apple", "Cheese", "Milk", "Gunpowder"]   # Define a list of product
 for product in products:                              # iterate through the list of products               |
                                                       # product = name of element within list products     |
     print(f"We have {product} in stock.")             # Print each product                                 |
+#--Terminal Output-----------------------------------------------------------------------------------------|
+#We have Apple in stock.                                                                                   |
+#We have Cheese in stock.                                                                                  |
+#We have Milk in stock.                                                                                    |
+#We have Gunpowder in stock.                                                                               |
+#----------------------------------------------------------------------------------------------------------|
 # Example 2: Skip iterations with continue                                                                 |
 inventory = ["Raisin cookies","Eggs", "Raisin cakes"] # List of our inventory                              |
 print("Display only raisin products")                 # we want to sort out non-raisin products            |
@@ -51,9 +73,20 @@ for product in inventory:                             # go through the list of p
     if not product.startswith("Raisin"):              # if a product doesnt start with raisin              |
         continue                                      # skip it                                            |
     print(f"{product}")                               # if it does, print the product                      |
+#--Terminal Output-----------------------------------------------------------------------------------------|
+#Display only raisin products                                                                              |
+#Raisin cookies                                                                                            |
+#Raisin cakes                                                                                              |
 #----------------------------------------------------------------------------------------------------------|
 # Example 3: Reverse loop for countdown                                                                    |
 for i in reversed(range(1,6)):                        # print i, but in the reversed range from 1-5        |
     print(f"Shift over in {i} seconds.")              # do this "range" amount of times                    |
 print("Shift over, time to go home!")                 # after you did the range, continue with code        |
+#--Terminal Output-----------------------------------------------------------------------------------------|
+#Shift over in 5 seconds.                                                                                  |
+#Shift over in 4 seconds.                                                                                  |
+#Shift over in 3 seconds.                                                                                  |
+#Shift over in 2 seconds.                                                                                  |
+#Shift over in 1 seconds.                                                                                  |
+#Shift over, time to go home!                                                                              |
 #----------------------------------------------------------------------------------------------------------|

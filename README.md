@@ -20,7 +20,7 @@ A repository containing exercises to track continuous improvements in programmin
   - Examples including skipping iterations, breaking out of loops, and reverse looping.
 
 ### **03_Functions**
-- `Basics.py`: Beginner-friendly examples showcasing:
+- `Basics.py`: Examples showcasing:
   - Defining a simple function.
   - Using parameters to pass values.
   - Returning values from functions.
@@ -39,7 +39,7 @@ A repository containing exercises to track continuous improvements in programmin
 - TBC
 
 ### **07_Projects**
-- `ShoppingList.py`: A fully functional shopping list program where you can:
+- `ShoppingList.py`: A shopping list program where you can:
   - Add, view, and remove products.
   - Calculate the total cost.
   - Track the quantity and price of each items.

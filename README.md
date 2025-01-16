@@ -14,7 +14,10 @@ A repository containing exercises to track continuous improvements in programmin
   - Assigning multiple variables in one line.
   - Checking the type of a variable using `type()`.
 ### **02_Control_Structures**
-- TBC
+- `Loops.py`: Basic introduction into loops:
+  - `while` loops for conditional execution.
+  - `for` loops for iterating over sequences.
+  - Examples including skipping iterations, breaking out of loops, and reverse looping.
 
 ### **03_Functions**
 - `Basics.py`: Beginner-friendly examples showcasing:

@@ -25,10 +25,10 @@ while True:                                           # infinite loop, runs unti
         print("Enter 1 to buy, or 2 to cancel.")      # repeat asking for valid user input                 |
 #----------------------------------------------------------------------------------------------------------|
 # Example 3: Using while to iterate through an list                                                        |
-inventory = ["Apples", "Bananas", "Cherries", "Eggs"] # list of all vailable products                      |
+inventory = ["Apples", "Bananas", "Cherries", "Eggs"] # list of all available products                     |
 search = input("What product are you looking for? ")  # user input                                         |  
-position = 0                                          #                                                    |
-while position < len(inventory):                      # Loop through (the lenght of) the inventory         |
+position = 0                                          # start index for list                               |
+while position < len(inventory):                      # Loop through (the length of) the inventory         |
     if inventory[position].lower() == search.lower(): # .lower incase user types "eggs" instead of "Eggs"  |
                                                       # if the user input is found in the current position |
                                                       # (or in the list since it iterates through)         |

@@ -31,7 +31,7 @@ A repository containing exercises to track continuous improvements in programmin
   - Lists
   - Sets
   - Tuples
-
+ - `Dictionaries.py`: a special type of collection
 ### **05_Modules**
 - TBC
 

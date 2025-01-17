@@ -31,7 +31,10 @@ A repository containing exercises to track continuous improvements in programmin
   - Lists
   - Sets
   - Tuples
- - `Dictionaries.py`: a special type of collection
+- `Dictionaries.py`: a special type of collection with key-value pairs:
+  - Adding, updating and removing pairs
+  - Accessing pairs
+  - Iterating over dictionaries
 ### **05_Modules**
 - TBC
 

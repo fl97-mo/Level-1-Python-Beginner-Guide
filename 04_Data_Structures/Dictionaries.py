@@ -1,6 +1,6 @@
 # Dictionary = collection of {key:value} pair                                                                                                  |
-# Key = an identifier, example {"Apple"                                                                                                        |
-# Value = data associated with the key. :1.00}(€). could be also True, "Red", etc.                                                             |
+# Key = an identifier, example {"Apple"   ; has to be unique in the dictionary                                                                 |
+# Value = data associated with the key. :1.00}(€). could be also True, "Red", etc.  ; can occur multiple times within dictionary               |
 # Are ideal for data with a clear relationship, like product and price                                                                         |
 #----------------------------------------------------------------------------------------------------------------------------------------------|
 # Example 1: Create and print dictionary                                                                                                       |
@@ -15,10 +15,10 @@ print(f"The price of an Apple is: {products["Apple"]}€")                # Use 
 #The price of an Apple is: 0.75€                                                                                                               |
 #----------------------------------------------------------------------------------------------------------------------------------------------|
 # Example 3: Check if a product exists                                                                                                         |
-if "Kiwi" in products:                                                 # Check if "Kiwi" exists as a key in the dictionary product             |
-    print("Kiwi is available.")                                        # If yes, print this                                                    |
-else:                                                                  # In any other case then yes                                            |
-    print("Kiwi is not available.")                                    # Print this                                                            |
+if "Kiwi" in products:                                                  # Check if "Kiwi" exists as a key in the dictionary product            |
+    print("Kiwi is available.")                                         # If yes, print this                                                   |
+else:                                                                   # In any other case then yes                                           |
+    print("Kiwi is not available.")                                     # Print this                                                           |
 #--Terminal Output-----------------------------------------------------------------------------------------------------------------------------|
 #Kiwi is available.                                                                                                                            |
 #----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -50,5 +50,20 @@ print(products.items())                                                 # Print 
 #--Terminal Output-----------------------------------------------------------------------------------------------------------------------------|
 #dict_keys(['Apple', 'Banana', 'Kiwi', 'Egg'])                          # All keys in products                                                 |
 #dict_values([0.75, 0.95, 1.0, 0.3])                                    # All values in products                                               |
-#dict_items([('Apple', 0.75), ('Banana', 0.95), ('Kiwi', 1.0), ('Egg', 0.3)]) # All key-value paris as tuples                                  | 
+#dict_items([('Apple', 0.75), ('Banana', 0.95), ('Kiwi', 1.0), ('Egg', 0.3)]) # All key-value paris as tuples                                  |
+#----------------------------------------------------------------------------------------------------------------------------------------------|
+# Task 1: Managing a supermarket inventory with dictionaries                                                                                   |
+#----------------------------------------------------------------------------------------------------------------------------------------------|
+# Defining a dictionary of our inventory                                                                                                       |
+products = {"Apple":0.75,"Banana":0.95,"Kiwi":1.00, "Egg":0.30}         # Dictionary = {key1:value1,key2:value2}                               |
+# Looping through the dictionary to display all products                                                                                       |
+print("Our products and their prices: ")                                                                                                      #|
+for product, price in products.items():                                 # For key, value in dictionary.items():                                |
+    print(f"{product}: {price}")                                        # F-String, print our products and prices                              |
+#--Terminal Output-----------------------------------------------------------------------------------------------------------------------------|
+#Our products and their prices:                                                                                                                |
+#Apple: 0.75                                                                                                                                   |
+#Banana: 0.95                                                                                                                                  |
+#Kiwi: 1.0                                                                                                                                     |
+#Egg: 0.3                                                                                                                                      |
 #----------------------------------------------------------------------------------------------------------------------------------------------|

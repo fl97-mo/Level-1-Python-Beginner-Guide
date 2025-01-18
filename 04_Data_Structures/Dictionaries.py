@@ -56,8 +56,8 @@ print(products.items())                                                 # Print 
 #----------------------------------------------------------------------------------------------------------------------------------------------|
 # Defining a dictionary of our inventory                                                                                                       |
 products = {"Apple":0.75,"Banana":0.95,"Kiwi":1.00, "Egg":0.30}         # Dictionary = {key1:value1,key2:value2}                               |
-# Looping through the dictionary to display all products                                                                                       |
-print("Our products and their prices: ")                                                                                                      #|
+# Looping through the dictionary to display all products                #                                                                      |
+print("Our products and their prices: ")                                #                                                                      |
 for product, price in products.items():                                 # For key, value in dictionary.items():                                |
     print(f"{product}: {price}")                                        # F-String, print our products and prices                              |
 #--Terminal Output-----------------------------------------------------------------------------------------------------------------------------|

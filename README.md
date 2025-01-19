@@ -8,6 +8,7 @@ A repository containing exercises to track continuous improvements in programmin
 
 ### **01_Basics**
 - `HelloWorld.py`: A simple script used to test GitHub settings and print "Hello, World!"
+- `ArithmeticOperators.py`: Explanation and demonstration of arithmetic operators
 - `Variables.py`: What is a variable, how do I use it?
   - Assigning values to variables of different data types (strings, integers, floats, booleans).
   - Reassigning variables and changing their values or types throughout the code.

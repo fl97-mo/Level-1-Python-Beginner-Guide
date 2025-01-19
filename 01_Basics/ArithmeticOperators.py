@@ -1,10 +1,10 @@
 # Arithmetic Operators = perform mathematical operations                                           |
 # Work with numeric types, output numeric                                                          |
 # Are used in nearly every code                                                                    |
-# +	Addition	            6 + 2 -> 8                                                             |
+# +	Addition	            6 + 2 -> 8                                                               |
 # -	Subtraction	            6 - 2 -> 4                                                             |
 # *	Multiplication	        6 * 2 -> 12                                                            |
-# /	Division	            6 / 2 -> 3.0                                                           |
+# /	Division	            6 / 2 -> 3.0                                                             |
 # %	Modulus (Remainder)     6 % 5 -> 1 (if you devide 6 by 5, 1 is the remainder as whole nmb)     |
 # ** Exponentiation (Power)	6 ** 2 -> 36 (6*6)                                                     |
 # // Floor Division	        10 // 3 -> 3 (10/3 = 3,3333 -> leave out the 0.3333 -> // = 3)         |

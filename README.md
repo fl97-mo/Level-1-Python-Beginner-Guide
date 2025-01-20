@@ -14,6 +14,9 @@ A repository containing exercises to track continuous improvements in programmin
   - Reassigning variables and changing their values or types throughout the code.
   - Assigning multiple variables in one line.
   - Checking the type of a variable using `type()`.
+- `Input_TypeConversion`: Working with user input and converting data types.
+  - `input()` function for user interaction.
+  - Converting data types using `int()`, `float()`, and `str()`.
 ### **02_Control_Structures**
 - `Loops.py`: Basic introduction into loops:
   - `while` loops for conditional execution.

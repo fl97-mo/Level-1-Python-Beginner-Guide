@@ -1,7 +1,7 @@
 class Product:                                                      # Defining Class Product                     |
     amount_of_products = 0                                          # Class variable = above constructor         |
                                                                                                                 #|
-    def __init__(self,brand, type, price, amount_stocked):          # # Constructor with variables; self refers  |
+    def __init__(self,brand, type, price, amount_stocked):          # Constructor with variables; self refers    |
                                                                     # to current instance = to your specific obj.|
         self.brand = brand                                          # Exmpl. your (brand) "Pink Lady" will be    |
                                                                     # saved in (self.brand)                      |

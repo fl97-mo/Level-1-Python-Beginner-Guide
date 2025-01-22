@@ -18,7 +18,7 @@ A repository containing exercises to track continuous improvements in programmin
   - `input()` function for user interaction.
   - Converting data types using `int()`, `float()`, and `str()`.
 ### **02_Control_Structures**
-- `Loops.py`: Basic introduction into loops:
+- `Loops.py`: Basic introduction into loops
   - `while` loops for conditional execution.
   - `for` loops for iterating over sequences.
   - Examples including skipping iterations, breaking out of loops, and reverse looping.
@@ -31,19 +31,21 @@ A repository containing exercises to track continuous improvements in programmin
   - Getting user input and performing calculations.
   - ![Solutions for the tasks](09_Screenshots/03_Basics.png)
 ### **04_Data_Structures**
-- `Collections.py`: Explaination and examples of collection types:
+- `Collections.py`: Explaination and examples of collection types.
   - Lists
   - Sets
   - Tuples
-- `Dictionaries.py`: a special type of collection with key-value pairs:
+- `Dictionaries.py`: a special type of collection with key-value pairs.
   - Adding, updating and removing pairs
   - Accessing pairs
   - Iterating over dictionaries
 ### **05_Modules**
-- TBC
+- `01_BuiltInModules/Math.py`: Exploring Python's `math` module
+  - Common mathematical functions like `sqrt()`, `pow()`, `ceil()`, and `floor()`.
+  - Recreating those functions manually
 
 ### **06_OOP_Basics**
-- `01_Objects/`: Introduction to object-oriented programming.
+- `01_Objects/`: Introduction to object-oriented programming
   - `main.py`: examples and executions of the product class
   - `product.py`: Defining the `Product` class -> a blueprint for creating objects (Products) with attributes and methods.
   - ![OOP Console Output](06_OOP_Basics_01_Objects.png)

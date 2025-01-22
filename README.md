@@ -48,7 +48,7 @@ A repository containing exercises to track continuous improvements in programmin
 - `01_Objects/`: Introduction to object-oriented programming
   - `main.py`: examples and executions of the product class
   - `product.py`: Defining the `Product` class -> a blueprint for creating objects (Products) with attributes and methods.
-  - ![OOP Console Output](06_OOP_Basics_01_Objects.png)
+  - ![OOP Console Output](09_Screenshots/06_OOP_Basics_01_Objects.png)
   
 ### **07_Projects**
 - `ShoppingList.py`: A shopping list program where you can:

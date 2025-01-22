@@ -1,10 +1,10 @@
 # Exercises
 
-*Under construction*   
-Hello and welcome to my Python beginners course.  🐍
+*Under construction*  
+Hello and welcome to my Python beginners course. 🐍  
 In this repository, you will find a variety of **code examples**, **projects**, **exercises**, and **informative insights** in each script.  
-The goal is to build a **free, high-quality, and easy-to-understand tutorial**.  
-In the future, I plan to create a **detailed script** that further deepens the theoretical content.  
+The goal is to build a **free, high-quality,** and **easy-to-understand tutorial**.  
+*In the future, I plan to create a detailed script that further deepens the theoretical content.*
 
 ---
 

@@ -2,7 +2,27 @@ from Visuals import hangman_visual
 from random import choice
 
 
-rdm_word = choice(["python", "restaurant", "church", "apple", "university", "barbecue", "keyboard", "sage"])        # choose a rdm word from list
+rdm_word = choice([
+    "ability", "absence", "academy", "balance", "battery", "capture", "captain",
+    "central", "castle", "chemistry", "classic", "climate", "collector",
+    "comfort", "company", "complex", "concert", "conference", "connect",
+    "consider", "consume", "contact", "content", "control", "convert",
+    "cooking", "country", "culture", "curtain", "customer", "delivery",
+    "democracy", "density", "diamond", "digital", "disaster", "discover",
+    "economy", "education", "emotion", "engineer", "enhance", "escape",
+    "example", "feature", "freedom", "galaxy", "general", "gravity",
+    "harmony", "horizon", "imagine", "improve", "injustice", "inspire",
+    "journey", "justice", "keyboard", "kingdom", "language", "library",
+    "machine", "measure", "mystery", "natural", "network", "occasion",
+    "operate", "organic", "original", "painting", "picture", "planet",
+    "policy", "positive", "presence", "problem", "quality", "quantity",
+    "reaction", "reality", "recycle", "resource", "respect", "science",
+    "section", "security", "service", "solution", "student", "support",
+    "teacher", "universe", "venture", "victory", "weather", "witness",
+    "maximum", "zealous", "xylitol", "yawning", "zephyr", "variable",
+    "allocate", "battery", "dedicate", "element", "feature", "gallery",
+    "identify", "keyboard", "knowledge", "manager", "protein", "utility"
+])        # choose a rdm word from list
 letters_in_word = set(rdm_word)                                                                                     # set word as a new iterable
 guessed_letters = []                                                                                                # list where letters are stored later
 

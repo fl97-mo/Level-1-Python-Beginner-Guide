@@ -1,4 +1,13 @@
 hangman_visual = {
+    0: (
+        "          ",
+        "          ",
+        "          ",
+        "          ",
+        "          ",
+        "          ",
+        "          ",
+    ),
     1: (
         "          ",
         "          ",
@@ -73,9 +82,3 @@ hangman_visual = {
     ),
 }
 
-def display_hangman(error_count):
-    if error_count in hangman_visual:
-        for line in hangman_visual[error_count]:
-            print(line)
-    else:
-        print("test")

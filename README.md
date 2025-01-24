@@ -24,7 +24,8 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
 - `StringOperations.py`: String functions explained
   - Creating and indexing strings
   - Combining (concatenating), converting, and formatting strings
-
+  - `text[::4]`, `.lower()`, `.upper()`, `.replace()`, `.split()`, `"-".join()`, `f"{variable}"`, `.format()`
+  
 ### **02_Control_Structures**
 - `Loops.py`: Basic introduction into loops
   - `while` loops for conditional execution

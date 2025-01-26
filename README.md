@@ -31,6 +31,10 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - `while` loops for conditional execution
   - `for` loops for iterating over sequences
   - Examples including skipping iterations, breaking out of loops, and reverse looping
+- `NestedLoops.py`: Understandin the logic behind it and be able to apply it in practice
+  - Printing a square pattern
+  - Iterating over a shopping cart (list of dictionaries)
+  - Creating a multiplication table (2d matrix)
 
 ### **03_Functions**
 - `Basics.py`: Examples showcasing:

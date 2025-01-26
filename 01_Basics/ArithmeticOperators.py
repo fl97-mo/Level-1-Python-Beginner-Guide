@@ -14,7 +14,7 @@
 # You'll learn how to build a code like this later. This one is just to demonstrate how the        |
 # operators work.                                                                                  |
 #--------------------------------------------------------------------------------------------------|
-print("Arithmetic Operators in Python")         #                                                  |                                   |
+print("Arithmetic Operators in Python")         #                                                  | 
 nmb_1 = float(input("Your first number: "))     # Typecasting it as float to make it easier to calc|
 nmb_2 = float(input("Your second number: "))    # Userinput first and second number                |
                                                 #                                                  |

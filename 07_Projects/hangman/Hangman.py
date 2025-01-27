@@ -2,7 +2,7 @@ from Visuals import hangman_visual
 from random import choice
 
 
-rdm_word = choice([
+rdm_word = choice([                                                                                                 # choose a rdm word from list
     "ability", "absence", "academy", "balance", "battery", "capture", "captain",
     "central", "castle", "chemistry", "classic", "climate", "collector",
     "comfort", "company", "complex", "concert", "conference", "connect",
@@ -22,7 +22,7 @@ rdm_word = choice([
     "maximum", "zealous", "xylitol", "yawning", "zephyr", "variable",
     "allocate", "battery", "dedicate", "element", "feature", "gallery",
     "identify", "keyboard", "knowledge", "manager", "protein", "utility"
-])        # choose a rdm word from list
+])       
 letters_in_word = set(rdm_word)                                                                                     # set word as a new iterable
 guessed_letters = []                                                                                                # list where letters are stored later
 

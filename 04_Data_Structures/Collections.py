@@ -1,6 +1,6 @@
 # collection = "variable" used to store multiple values.                                                                                       |
 # Lists[] = defined with [], list1[item1,item2,...]                                                                                            |
-# - ordered: itemes remain in their order as inserted                                                                                          |
+# - ordered: items remain in their order as inserted                                                                                           |
 # - changeable: add, remove or modify items.                                                                                                   |
 # - allows duplicates: same value can appear multiple times                                                                                    |
 # - a bit slower, but most flexible                                                                                                            |

@@ -11,7 +11,6 @@ discount_percentage = 40                                        # now we know wh
 #----------------------------------------------------------------------------------------------------------------------------------------------|
 # variables can be reassigned throughout the code, changing values and types                                                                   |                                                                                                                                      
 # example 2: reassigning variables                                                                                                             |     
-
 print("I ate an apple")                                         # amount was declared above in example 1 with 90                               |
 amount = amount - 1                                             # reassign: we subtract 1 from the amount, because someone got hungry          |
 print("Apples left:",amount)                                    # print the new value of amount                                                |
@@ -41,7 +40,6 @@ print(f"x: {x}\ny: {y}\nz: {z}")                               # printing. use \
 #----------------------------------------------------------------------------------------------------------------------------------------------|
 # check type of a variable by using type(variable)                                                                                             |
 # example 4: type checking                                                                                                                     |
-
 print(f"Our product {product}'s type is a {type(product)}")                                                                                #   |
 print(f"We have {amount} of it. The type of amount is: {type(amount)}")                                                                    #   |
 amount = 90                                                    # we still have "none left" assigned, lets assign 90 again to amount            |

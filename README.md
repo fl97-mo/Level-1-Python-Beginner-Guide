@@ -57,9 +57,12 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - Iterating over dictionaries
 ### **05_Modules**
 - `01_BuiltInModules/Math.py`: Exploring Python's `math` module
-  - Common mathematical functions like `sqrt()`, `pow()`, `ceil()`, and `floor()`.
+  - Common mathematical functions like `sqrt()`, `pow()`, `ceil()`, and `floor()`
   - Recreating those functions manually
-
+- `02_CustomModules/Supermarket.py`: Creating our own supermarket module!
+  - Defining own functions in our module `calculate_total_price()` and `greet_customer()`
+  - Using Docstrings 
+  - Using `main.py` to import and use those
 ### **06_OOP_Basics**
 - `01_Objects/`: Introduction to object-oriented programming
   - `main.py`: examples and executions of the product class

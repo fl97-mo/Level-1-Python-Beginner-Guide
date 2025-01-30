@@ -95,3 +95,11 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
 ### **08_Algorithms**
 - `BubbleSort.py`: A simple algorithm to sort a list of values by comparing and swapping neighbors. 
 
+## Quick Start
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/fl97-mo/exercises.git
+2. **Navigate to the directory and run a script**:
+   ```bash
+   cd exercises
+   python 01_Basics/HelloWorld.py

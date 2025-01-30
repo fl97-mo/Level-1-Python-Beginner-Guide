@@ -102,4 +102,6 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
 2. **Navigate to the directory and run a script**:
    ```bash
    cd exercises
+   ```
+   ```bash
    python 01_Basics/HelloWorld.py

@@ -51,10 +51,14 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - Lists
   - Sets
   - Tuples
-- `Dictionaries.py`: a special type of collection with key-value pairs
+- `Dictionaries.py`: A special type of collection with key-value pairs
   - Adding, updating and removing pairs
   - Accessing pairs
   - Iterating over dictionaries
+- `ListComprehensions.py`: Compact way to create and manipulate lists
+  - Basic syntax: `[EXPRESSION for ITEM in ITERABLE]`
+  - `if` and `if-else` list comprehensions
+
 ### **05_Modules**
 - `01_BuiltInModules/Math.py`: Exploring Python's `math` module
   - Common mathematical functions like `sqrt()`, `pow()`, `ceil()`, and `floor()`

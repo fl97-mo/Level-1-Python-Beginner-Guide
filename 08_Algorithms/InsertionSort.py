@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------------------------------------------|
-# Insertion Sort: Simple algorithm that builds the final sorted list one element at a time                |
+# Insertion Sort: a simple sorting algorithm that builds the final sorted list one element at a time      |
 # efficient for small datasets, but still O(n²) time complexity                                           |
 #---------------------------------------------------------------------------------------------------------|
 def insertion_sort(values):                                            # function with list as input      |

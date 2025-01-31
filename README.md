@@ -94,7 +94,6 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
 
 ### **08_Algorithms**
 - `BubbleSort.py`: A simple algorithm to sort a list of values by comparing and swapping neighbors. 
-<<<<<<< HEAD
 - `InsertionSort.py`: Builds sorted list each element at a time by inserting into the correct position.
 =======
 

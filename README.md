@@ -66,6 +66,10 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
 - `01_BuiltInModules/Random.py`: Exploring Python's `random` module
   - Generating random numbers, shuffling sequences and making random choices 
   - Typically used functions like `randint()`, `shuffle()`, `choices()`, and `randrange()`
+- `01_BuiltInModules/DateTime.py`: Python's `datetime` module
+  - Getting the current date and time
+  - Formatting and manipulating dates
+  - Calculating time differences
 - `02_CustomModules/Supermarket.py`: Creating our own supermarket module!
   - Defining own functions in our module `calculate_total_price()` and `greet_customer()`
   - Using Docstrings 

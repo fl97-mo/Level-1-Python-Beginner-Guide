@@ -12,8 +12,8 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
 
 ### **00_Course_Material** *Under construction*
 - `PythonBeginnerGuide_fl97-mo.ipynb`: Your personal Python mentor!
-- Theoretical introduction to Python with practical examples
-- Interactively designed
+  - Theoretical introduction to Python with practical examples
+  - Interactively designed
 ### **01_Basics**
 - `HelloWorld.py`: A simple script used to test GitHub settings and print "Hello, World!"
 - `ArithmeticOperators.py`: Explanation and demonstration of arithmetic operators

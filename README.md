@@ -1,4 +1,4 @@
-# Exercises
+# Level 1: Python for Beginners
 
 *Under construction*
 Hello and welcome to my Python beginners course. 🐍

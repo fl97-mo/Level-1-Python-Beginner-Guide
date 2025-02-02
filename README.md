@@ -1,9 +1,9 @@
 # Exercises
 
-*Under construction*  
-Hello and welcome to my Python beginners course. 🐍  
-In this repository, you will find a variety of **code examples**, **projects**, **exercises**, and **informative insights** in each script.  
-The goal is to build a **free, high-quality,** and **easy-to-understand tutorial**.  
+*Under construction*
+Hello and welcome to my Python beginners course. 🐍
+In this repository, you will find a variety of **code examples**, **projects**, **exercises**, and **informative insights** in each script.
+The goal is to build a **free, high-quality,** and **easy-to-understand tutorial**.
 *In the future, I plan to create a detailed script that further deepens the theoretical content.*
 
 ---
@@ -64,12 +64,11 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - Common mathematical functions like `sqrt()`, `pow()`, `ceil()`, and `floor()`
   - Recreating those functions manually
 - `01_BuiltInModules/Random.py`: Exploring Python's `random` module
-  - Generating random numbers, shuffling sequences and making random choices 
   - Typically used functions like `randint()`, `shuffle()`, `choices()`, and `randrange()`
 - `01_BuiltInModules/DateTime.py`: Python's `datetime` module
-  - Getting the current date and time
-  - Formatting and manipulating dates
-  - Calculating time differences
+  - Getting the current date and time, manipulating dates.
+- `01_BuiltInModules/Statstics.py`: Python's `statistics` module
+  - Useful statistics funtions like `mean()`, `median()`, `variance()`, etc.
 - `02_CustomModules/Supermarket.py`: Creating our own supermarket module!
   - Defining own functions in our module `calculate_total_price()` and `greet_customer()`
   - Using Docstrings 

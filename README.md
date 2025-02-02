@@ -10,6 +10,10 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
 
 ## Topics
 
+### **00_Course_Material** *Under construction*
+- `PythonBeginnerGuide_fl97-mo.ipynb`: Your personal Python mentor!
+- Theoretical introduction to Python with practical examples
+- Interactively designed
 ### **01_Basics**
 - `HelloWorld.py`: A simple script used to test GitHub settings and print "Hello, World!"
 - `ArithmeticOperators.py`: Explanation and demonstration of arithmetic operators
@@ -73,7 +77,7 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - Defining own functions in our module `calculate_total_price()` and `greet_customer()`
   - Using Docstrings 
   - Using `main.py` to import and use those
-### **06_OOP_Basics**
+### **06_OOP_Basics** *Under construction*
 - `01_Objects/`: Introduction to object-oriented programming
   - `main.py`: examples and executions of the product class
   - `product.py`: Defining the `Product` class -> a blueprint for creating objects (Products) with attributes and methods.

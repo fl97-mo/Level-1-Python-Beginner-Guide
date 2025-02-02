@@ -106,10 +106,10 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
 ## Quick Start
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/fl97-mo/exercises.git
+   git clone https://github.com/fl97-mo/Level-1-Python-Beginner-Guide
 2. **Navigate to the directory and run a script**:
    ```bash
-   cd exercises
+   cd Level-1-Python-Beginner-Guide
    ```
    ```bash
    python 01_Basics/HelloWorld.py

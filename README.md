@@ -77,12 +77,17 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - Defining own functions in our module `calculate_total_price()` and `greet_customer()`
   - Using Docstrings 
   - Using `main.py` to import and use those
-### **06_OOP_Basics** *Under construction*
+
+### **06_OOP_Basics**
 - `01_Objects/`: Introduction to object-oriented programming
   - `main.py`: examples and executions of the product class
   - `product.py`: Defining the `Product` class -> a blueprint for creating objects (Products) with attributes and methods.
   - ![OOP Console Output](09_Screenshots/06_OOP_Basics_01_Objects.png)
-  
+- `02_Inheritance/`: Simple example of inheritance
+  - `main.py`: examples and executions
+  - `store_product.py`: Parent class
+  - `vegetable.py`: Child class inheriting from `store_product.py`
+
 ### **07_Projects**
 - `ShoppingList.py`: A shopping list program where you can:
   - Add, view, and remove products

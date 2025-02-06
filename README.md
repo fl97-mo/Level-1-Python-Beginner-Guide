@@ -31,6 +31,10 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - `text[::4]`, `.lower()`, `.upper()`, `.replace()`, `.split()`, `"-".join()`, `f"{variable}"`, `.format()`
   
 ### **02_Control_Structures**
+- `Boolean_Logic_Conditionals.py`: Introduction to boolean logic and conditional statements
+  - `True` and `False` values
+  - Comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+  - Logical operators (`and`, `or`, `not`)
 - `Loops.py`: Basic introduction into loops
   - `while` loops for conditional execution
   - `for` loops for iterating over sequences

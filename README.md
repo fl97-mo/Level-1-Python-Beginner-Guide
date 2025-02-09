@@ -54,6 +54,10 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - Returning values from functions
   - Getting user input and performing calculations
   - ![Solutions for the tasks](09_Screenshots/03_Basics.png)
+- `Args_Kwargs.py`: Making functions more flexible:
+  - `funtion(*args)`: use custom amount of arguments
+  - `function(**kwargs)`: use custom amount of key:value pairs
+
 ### **04_Data_Structures**
 - `Collections.py`: Explaination and examples of collection types
   - Lists

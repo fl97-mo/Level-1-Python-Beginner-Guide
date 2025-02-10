@@ -111,15 +111,15 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - `Visuals.py` displaying ASCII art for the console
   - with 100 random words
   - ![Hangman Game](09_Screenshots/07_Hangman.png)
-- `BreadthFirstSearch.py`: A simple implementation of the Breadth-First Search algorithm
-  - Finds the shortest path between locations in an unweighted graph
-  - Queue-based approach to explore all possible paths and select the shortest one
-  - ![BFS Visualisation](09_Screenshots/08_BreadthFirstSearch.png)
 
 ### **08_Algorithms**
 - `BubbleSort.py`: A simple algorithm to sort a list of values by comparing and swapping neighbors. 
 - `InsertionSort.py`: Builds sorted list each element at a time by inserting into the correct position.
-
+- `BreadthFirstSearch.py`: A simple implementation of the Breadth-First Search algorithm
+  - Finds the shortest path between locations in an unweighted graph
+  - Queue-based approach to explore all possible paths and select the shortest one
+  - ![BFS Visualisation](09_Screenshots/08_BreadthFirstSearch.png)
+  
 ## Quick Start
 1. **Clone the repository**:
    ```bash

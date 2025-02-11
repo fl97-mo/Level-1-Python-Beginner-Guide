@@ -16,5 +16,5 @@
 6. **User Input and Type Conversion**
        - `Input_TypeConversion.py`, how to ask for input and convert data types in Python.
         - *Exercise 2: Calculate the total cost of a product*
-
- 
+7. **# Conditionals and logical operators**
+    - `==`, `!=`, `>`, `<`, `>=`, `<=`

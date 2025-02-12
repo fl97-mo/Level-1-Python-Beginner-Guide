@@ -97,6 +97,8 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - `vegetable.py`: Child class inheriting from `store_product.py`
 
 ### **07_Projects**
+- `FizzBuzz.py`: rather less a project, more a general question in coding interviews
+  - Structure and short example
 - `ShoppingList.py`: A shopping list program where you can:
   - Add, view, and remove products
   - Calculate the total cost

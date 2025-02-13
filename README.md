@@ -121,7 +121,8 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - Finds the shortest path between locations in an unweighted graph
   - Queue-based approach to explore all possible paths and select the shortest one
   - ![BFS Visualisation](09_Screenshots/08_BreadthFirstSearch.png)
-  
+- `SelectionSort.py`: Repeatedly selects the smallest element from the unsorted part and moves it to the beginning.
+
 ## Quick Start
 1. **Clone the repository**:
    ```bash

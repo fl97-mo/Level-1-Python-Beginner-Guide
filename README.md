@@ -113,6 +113,8 @@ The goal is to build a **free, high-quality,** and **easy-to-understand tutorial
   - `Visuals.py` displaying ASCII art for the console
   - with 100 random words
   - ![Hangman Game](09_Screenshots/07_Hangman.png)
+- `CeasarCipher.py`: A simple encryption and decryption program using the Caesar cipher
+  - Encrypts and decrypts messages by shifting the alphabet by a random number of positions
 
 ### **08_Algorithms**
 - `BubbleSort.py`: A simple algorithm to sort a list of values by comparing and swapping neighbors. 

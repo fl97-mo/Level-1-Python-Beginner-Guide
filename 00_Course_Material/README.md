@@ -18,3 +18,5 @@
         - *Exercise 2: Calculate the total cost of a product*
 7. **Conditionals and logical operators**
     - `==`, `!=`, `>`, `<`, `>=`, `<=`
+8. **Loops**
+    - `while`: Do something as long as our condition is met
